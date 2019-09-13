@@ -1,4 +1,4 @@
-# BCS koolitus - Booking App
+# Booking App
 ====================================================
 
 This web application is the code base for the teachers as a reference when they give their student an assignment to create a web application according to the given tasks using [Silex](http://silex.sensiolabs.org/).
@@ -62,11 +62,6 @@ vendor/bin/phpunit tests
 We use [SemVer](http://semver.org/) for versioning.
 At the moment we have one version, which is 1.0.0
 
-## Authors
-
-* **Kadri Vahtramäe** - *Initial work* - [Kadri Vahtramäe](https://gitlab.com/KadriVahtramae)
-
-See also the list of [contributors](www.i-smith.ee) who participated in this project.
 
 ## License
 
