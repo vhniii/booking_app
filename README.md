@@ -44,8 +44,8 @@ composer install
 You can test by starting server and going to the following url:
 ```
 symfony server:start
+URL: localhost:8000/bookings/create
 ```
-`URL: localhost:8000/bookings/create`
 
 ## Built With
 
