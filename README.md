@@ -52,8 +52,6 @@ URL: localhost:8000/bookings/create
 * [Symfony](https://symfony.com/) - The web framework used
 * [Composer](https://getcomposer.org/) - Dependency Management
 * [Twig](http://twig.sensiolabs.org/) - Php template engine
-* [Doctrine DBAL](http://docs.doctrine-project.org/projects/doctrine-dbal/en/latest/index.html) - Database connection
-* [PHPUnit](https://phpunit.de/) - PHP testing framework
 
 
 ## License
