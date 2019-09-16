@@ -39,12 +39,13 @@ And then you need to install composer packages in your project folder.
 composer install
 ```
 
-## Running the tests
+## Testing
 
-You can run the tests by this command:
+You can test by starting server and going to the following url:
 ```
-vendor/bin/phpunit tests
+symfony server:start
 ```
+`URL: localhost:8000/bookings/create`
 
 ## Built With
 
