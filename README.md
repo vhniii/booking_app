@@ -57,11 +57,6 @@ vendor/bin/phpunit tests
 * [Doctrine DBAL](http://docs.doctrine-project.org/projects/doctrine-dbal/en/latest/index.html) - Database connection
 * [PHPUnit](https://phpunit.de/) - PHP testing framework
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning.
-At the moment we have one version, which is 1.0.0
-
 
 ## License
 
